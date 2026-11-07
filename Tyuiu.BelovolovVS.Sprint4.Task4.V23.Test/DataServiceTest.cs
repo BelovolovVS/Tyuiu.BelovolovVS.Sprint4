@@ -19,7 +19,7 @@ namespace Tyuiu.BelovolovVS.Sprint4.Task4.V23.Test
                 { 6, 8, 3, 6, 7 } };
 
             int res = ds.Calculate(mas2);
-            int wait = 65;   // сумма всех нечётных элементов
+            int wait = 65;   
 
             Assert.AreEqual(wait, res);
         }
