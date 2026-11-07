@@ -46,6 +46,7 @@ namespace Tyuiu.BelovolovVS.Sprint4.Task7.V23
                 Console.WriteLine();
             }
 
+           
             Console.WriteLine();
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
